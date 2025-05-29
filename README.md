@@ -1,1 +1,1 @@
-# NALM(Non-autoregressive language model)
+# MDTCT (Masked Diffusion Transformer with Curriculum Training)
